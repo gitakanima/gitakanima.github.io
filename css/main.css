@@ -1192,12 +1192,13 @@ header .row {
 }
 header .top-bar {
   display: block;
-  background: #cfdebf;
+  background: #ffffff;
   min-width: 200px;
   min-height: 66px;
   position: absolute;
   left: 90px;
   top: 0;
+  border-radius: 0px 0px 5px 5px;
 }
 header .logo {
   float: left;
@@ -1325,7 +1326,7 @@ header .logo a {
 
 /* dropdown nav */
 .main-navigation {
-  background: #cfdebf;
+  background: #ffffff;
   padding: 24px 30px 42px;
   margin: 0;
   width: 100%;
@@ -1389,7 +1390,7 @@ header .logo a {
  * ------------------------------------------------------------------- 
  */
 #intro {
-  background: #151515 url(../images/bg1.jpg) no-repeat center bottom;
+  background: #151515 url(../images/bg1.jpg) no-repeat center top;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
