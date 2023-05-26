@@ -1459,14 +1459,14 @@ header .logo a {
   text-align: center;
   display: inline-block;
   padding: 0 8px 0 14px;
-  color: rgba(255, 255, 255, 0.3);
+  color: #383f20;
 }
 .intro-content .intro-position span:first-child::before {
   content: "|";
   text-align: center;
   display: inline-block;
   padding: 0 14px 0 8px;
-  color: rgba(255, 255, 255, 0.3);
+  color: #383f20;
 }
 .intro-content .button {
   color: #383f20 !important;
@@ -2638,7 +2638,7 @@ footer .copyright span::after {
   content: "|";
   display: inline-block;
   padding: 0 1rem 0 1.2rem;
-  color: rgba(255, 255, 255, 0.1);
+  color: #383f20;
 }
 footer .copyright span:last-child::after {
   display: none;
